@@ -1,0 +1,85 @@
+
+/* Class = "UITabBarItem"; title = "Expences"; ObjectID = "Hgn-4a-IpB"; */
+"Hgn-4a-IpB.title" = "Expences";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "ZmW-P5-OPp"; */
+"ZmW-P5-OPp.title" = "Account";
+
+/* Class = "UITabBarItem"; title = "Allowances"; ObjectID = "mzM-mz-3na"; */
+"mzM-mz-3na.title" = "Allowances";
+
+"submit" = "Submit";
+
+"add" = "Add";
+
+"allowance_submit_error" = "Error updating Allowance to submitted";
+
+"allowance_submit_success" = "Allowance submission successful";
+
+"allowance_submit_canceled_or_fail" = "Submit canceled or failed";
+
+"allowance_submit_fail" = "Submit failure";
+"allowance_submit_fail_missing_email" = "Can't submit allowances due to missing email capabilities";
+
+"section_allowances" = "Allowances";
+"section_submitted_allowances" = "Submitted Allowances";
+
+"section_expenses" = "Expenses";
+"section_submitted_expenses" = "Submitted Expenses";
+
+"ok" = "OK";
+"save" = "Save";
+
+"destination" = "Destination";
+"sweden" = "Sweden";
+"denmark" = "Denmark";
+"finland" = "Finland";
+"norway" = "Norway";
+"germany" = "Germany";
+"countryunknown" = "Country unknown";
+
+
+"login" = "Login";
+"signin" = "Register";
+"email" = "Email";
+"password" = "Password";
+
+"pleaseenteremail" = "Please enter email";
+"pleaseenterpassword" = "Please enter password";
+"createaccounterror" = "Create Account Error";
+"loginerror" = "Login Error";
+"logout" = "Logout";
+
+"pleaseloginagain"= "Please login again";
+"couldnotfindauthuser" = "Could not find auth user";
+"couldnotreaduseremail" = "Could not read user email";
+"logouterror" = "Logout Error";
+"logouterrordescription" = "Something went wrong when logging out";
+
+"description" = "Description";
+"choosecountry" = "Choose country";
+"choosecountrydecription" = "What was your destination country?";
+
+"notallowededit" = "Not allowed to edit";
+"notallowededitdescription" = "Item has been submitted";
+"enterdescription" = "Enter a short description of your travel";
+"enterdates" = "Select the start and end dates and check the list";
+"sum:" = "Sum:";
+
+"inclbreakfast" = "Incl. Breakfast";
+"incllunch" = "Incl. Lunch";
+"ownaccommodation" = "Own Accommodation";
+"allowancedays" = "Allowance days";
+
+"expencescannotsubmit" = "Can not submit";
+"expencescannotsubmitdescription" = "There are no created expenses that can be submitted";
+"expensesubmissionsuccessful" = "Expense submission successful";
+"expense_submit_canceled_or_fail" = "Submit canceled or failed";
+"amount" = "Amount";
+"currency" = "Currency";
+"pleaseselectcurrency" = "Please select currency";
+"moreinfoneeded" = "More info needed";
+"entertraveldescr" = "Enter a short description of your travel";
+"enteramount" = "Enter amount";
+"errorsavingexpense" = "Error saving Expense";
+"errorsavingimage" = "Error saving Image";

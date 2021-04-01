@@ -1,0 +1,86 @@
+
+/* Class = "UITabBarItem"; title = "Expences"; ObjectID = "Hgn-4a-IpB"; */
+"Hgn-4a-IpB.title" = "Utlägg";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "ZmW-P5-OPp"; */
+"ZmW-P5-OPp.title" = "Konto";
+
+/* Class = "UITabBarItem"; title = "Allowances"; ObjectID = "mzM-mz-3na"; */
+"mzM-mz-3na.title" = "Traktamente";
+
+"submit" = "Skicka in";
+
+"add" = "Lägg till";
+
+"allowance_submit_error" = "Fel under ändring av traktamenten till inskickade";
+
+"allowance_submit_success" = "Traktamente inskickade";
+
+"allowance_submit_canceled_or_fail" = "Inskickning avbruten eller fel uppstod";
+
+"allowance_submit_fail" = "Fel under inskickning";
+"allowance_submit_fail_missing_email" = "Kan inte skicka in traktamente pga utebliven email kapacitet";
+
+"section_allowances" = "Traktamente";
+"section_submitted_allowances" = "Inskickade Traktamente";
+
+"section_expenses" = "Utlägg";
+"section_submitted_expenses" = "Inskickade Utlägg";
+
+"ok" = "OK";
+"save" = "Spara";
+
+"destination" = "Resmål";
+"sweden" = "Sverige";
+"denmark" = "Danmark";
+"finland" = "Finland";
+"norway" = "Norge";
+"germany" = "Tyskland";
+"countryunknown" = "Okänt land";
+
+
+"login" = "Logga in";
+"signin" = "Registrera";
+"email" = "Email";
+"password" = "Lösenord";
+
+"pleaseenteremail" = "Vänligen skriv email";
+"pleaseenterpassword" = "Vänligen skriv lösenord";
+"createaccounterror" = "Fel under kontoskapande";
+"loginerror" = "Log in fel";
+"logout" = "Logga ut";
+
+"pleaseloginagain"= "Vänligen logga in igen";
+"couldnotfindauthuser" = "Kunde inte hitta auth användare";
+"couldnotreaduseremail" = "Kunde inte läsa användarens email";
+"logouterror" = "Logga ut fel";
+"logouterrordescription" = "Nånting gick fel under utloggning";
+
+"description" = "Beskrivning";
+"choosecountry" = "Välj land";
+"choosecountrydecription" = "Vilket var ditt resland?";
+
+"notallowededit" = "Inte tillåtet att editera";
+"notallowededitdescription" = "Posterna är redan inskickat";
+"enterdescription" = "Skriv en kort beskrivning av din resa";
+"enterdates" = "Välj start- och stopdatum och klicka i listan";
+"sum:" = "Tot:";
+
+"inclbreakfast" = "Incl. Frukost";
+"incllunch" = "Incl. Lunch";
+"ownaccommodation" = "Eget uppehälle";
+"allowancedays" = "Traktamente dagar";
+
+
+"expencescannotsubmit" = "Kan inte skicka in";
+"expencescannotsubmitdescription" = "Det finns inga skapade utlägg som kan skickas in";
+"expensesubmissionsuccessful" = "Utlägg inskickade";
+"expense_submit_canceled_or_fail" = "Inskickning falerade eller avbröts";
+"amount" = "Belopp";
+"currency" = "Valuta";
+"pleaseselectcurrency" = "Vänligen välj land";
+"moreinfoneeded" = "Mer info behövs";
+"entertraveldescr" = "Beskriv kort din resa";
+"enteramount" = "Ange belopp";
+"errorsavingexpense" = "Fel under sparande av utlägg";
+"errorsavingimage" = "Fel under sparande av bild";
